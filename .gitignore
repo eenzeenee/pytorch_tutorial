@@ -30,3 +30,4 @@ Temporary Items
 # big file
 data/
 models/
+torch_tutorial_venv/
